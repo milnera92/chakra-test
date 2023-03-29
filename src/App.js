@@ -8,16 +8,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I am a basic react app. I am using Chakra UI. Here is a Chakra button.
+          I am a basic react app. I am using Chakra UI.
         </p>
-        <Button colorScheme='blue'>Button</Button>
+        <Button colorScheme='blue'>Chakra!</Button>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        
         </a>
       </header>
     </div>
