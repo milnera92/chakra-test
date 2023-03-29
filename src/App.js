@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I am a basic react app. I am using Chakra UI. Here is a Chakra button.
         </p>
         <Button colorScheme='blue'>Button</Button>
         <a
