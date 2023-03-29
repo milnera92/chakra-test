@@ -11,14 +11,7 @@ function App() {
           I am a basic react app. I am using Chakra UI.
         </p>
         <Button colorScheme='blue'>Chakra!</Button>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        
-        </a>
+
       </header>
     </div>
   );
